@@ -14,6 +14,7 @@ A few hours
 ### MVP / REQUIREMENTS
 
 - sketches for layout
+- ![sketches of the screen layout for mobile and desktop view](_assets/layoutSketches.png)
 - title bar
 - scoreboard/counter for both players
 - increment buttons for both players
