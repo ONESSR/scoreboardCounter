@@ -6,7 +6,8 @@
     padding: 24px;
   }
   .mainSpacing {
-    margin: 0 88px;
+    margin-left: 88px;
+    margin-right: 88px;
   }
   .logoContainer {
     justify-content: left;
