@@ -44,3 +44,7 @@ A few hours
 ### LEARNINGS
 
 - Always get functionality of code first and apply final design styling last once functionality is acheived
+
+### MVP SCREENSHOT
+
+![A screenshot of the live mvp](_assets/Squatulator.jpeg)
