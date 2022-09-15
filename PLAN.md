@@ -18,7 +18,7 @@ A few hours
 - title bar ✅
 - scoreboard/counter for both players ✅
 - increment buttons for both players ✅
-- new game button resets scoreboards/counters to 0
+- new game button resets scoreboards/counters to 0 ✅
 
 ### STRETCH GOALS / FEATURES
 
@@ -40,4 +40,4 @@ A few hours
 
 ### LEARNINGS
 
-- consider layout early on in sketches but get functionality of code first and apply final design styling last
+- Always get functionality of code first and apply final design styling last once functionality is acheived
