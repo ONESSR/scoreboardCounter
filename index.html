@@ -35,24 +35,24 @@
       <div class="playerOne">
         <h2 class="playerName">Home</h2>
         <div class="scoreContainer">
-          <h3 class="playerScore">180</h3>
+          <h3 class="playerScore" id="homeScore">0</h3>
         </div>
         <div class="buttonContainer">
-          <button class="increment">+1</button>
-          <button class="increment">+3</button>
-          <button class="increment">+5</button>
+          <button class="increment" onclick="addOneHome()">+1</button>
+          <button class="increment" onclick="addThreeHome()">+3</button>
+          <button class="increment" onclick="addFiveHome()">+5</button>
         </div>
       </div>
 
        <div class="playerOne">
-        <h2 class="playerName">Away</h2>
+        <h2 class="playerName">Guest</h2>
         <div class="scoreContainer">
-          <h3 class="playerScore">18</h3>
+          <h3 class="playerScore" id="guestScore">0</h3>
         </div>
         <div class="buttonContainer">
-          <button class="increment">+1</button>
-          <button class="increment">+3</button>
-          <button class="increment">+5</button>
+          <button class="increment" onclick="addOneGuest()">+1</button>
+          <button class="increment" onclick="addThreeGuest()">+3</button>
+          <button class="increment" onclick="addFiveGuest()">+5</button>
         </div>
       </div>
 
