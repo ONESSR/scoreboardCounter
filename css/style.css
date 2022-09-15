@@ -84,7 +84,7 @@ nav {
 /* TITLE */
 .title {
   color: var(--solidGreyColor);
-  font-size: 31px;
+  font-size: 25px;
   border: 4px dotted var(--solidGreyColor);
   display: inline-block;
   padding: 8px 32px;
