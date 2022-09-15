@@ -13,17 +13,17 @@ A few hours
 
 ### MVP / REQUIREMENTS
 
-- sketches for layout
+- sketches for layout ✅
 - ![sketches of the screen layout for mobile and desktop view](_assets/layoutSketches.png)
-- title bar
-- scoreboard/counter for both players
-- increment buttons for both players
+- title bar ✅
+- scoreboard/counter for both players ✅
+- increment buttons for both players ✅
 - new game button resets scoreboards/counters to 0
 
 ### STRETCH GOALS / FEATURES
 
-- responsive design
-- style with css
+- responsive design ✅
+- style with css ✅
 - count down timer showing counter
   - timer illustrates who won at the end
 - Highlights who is in the lead
@@ -33,6 +33,11 @@ A few hours
 
 ### CODE STEPS
 
-- set up file/folder structure
+- set up file/folder structure ✅
+- layout elements ✅
+- styling ✅
+- functionality of buttons ✅
 
 ### LEARNINGS
+
+- consider layout early on in sketches but get functionality of code first and apply final design styling last
