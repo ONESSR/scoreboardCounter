@@ -47,4 +47,4 @@ A few hours
 
 ### MVP SCREENSHOT
 
-![A screenshot of the live mvp](_assets/Squatulator.jpeg)
+![A screenshot of the live mvp](_assets/mvpScreenshot.png)
