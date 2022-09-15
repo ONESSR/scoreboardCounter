@@ -31,3 +31,11 @@ function addFiveGuest() {
   const guestScoreDisplay = document.getElementById("guestScore");
   guestScoreDisplay.textContent = guestScores += 5;
 }
+
+function reset() {
+  const homeScoreDisplay = document.getElementById("homeScore");
+  homeScoreDisplay.textContent = homeScores = 0;
+
+  const guestScoreDisplay = document.getElementById("guestScore");
+  guestScoreDisplay.textContent = guestScores = 0;
+}
